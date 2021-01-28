@@ -1,0 +1,45 @@
+    h1 {
+      text-align: center;
+    }
+    h2 {
+        font-style: italic; color: navy; 
+        font-family: fantasy;
+    }
+    p {
+        color: red;
+    }
+    #two {
+        color: blue;
+    }
+    #three {
+        color: green;
+    }
+    #four {
+        font-size: xx-large;
+    }
+    #five {
+        font-size: xx-small;
+    }
+    #six {
+        text-align: center;
+    }
+    #seven {
+        font-weight: bolder;
+    }
+    #eight {
+        font-family: cursive;
+    }
+    #nine {
+        font-size: xx-large; color: orange; 
+        font-weight: bolder;
+    }
+
+    p.styledFont {
+        color: palevioletred; text-align: right; 
+        font-style: oblique;
+    }
+    #styledImage {
+        border-style: solid;
+        border-color:yellow;
+        border-width: thick;
+    }
